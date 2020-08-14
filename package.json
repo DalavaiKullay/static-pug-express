@@ -1,0 +1,19 @@
+{
+  "name": "st",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "te.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "kullaydalavai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "pug": "^3.0.0"
+  }
+}
